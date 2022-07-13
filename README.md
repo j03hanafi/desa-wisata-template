@@ -3,7 +3,7 @@
 ## Todo?
 
 - Get repository `Download as ZIP`
-- Open `folder_name`
+- Extract and open folder
 - Run `composer install` on terminal
 - Rename file `env` to `.env`
 - Inside file `.env`, set `CI_ENVIRONMENT = development`
