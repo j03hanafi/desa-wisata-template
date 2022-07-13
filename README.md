@@ -2,7 +2,8 @@
 
 ## Todo?
 
-- Get repository `git clone https://github.com/j03hanafi/desa-wisata-template.git`
+- Get repository `git clone https://github.com/j03hanafi/desa-wisata-template.git folder_name`
+- Open `folder_name`
 - Run `composer install` on terminal
 - Rename file `env` to `.env`
 - Inside file `.env`, set `CI_ENVIRONMENT = development`
