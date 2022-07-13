@@ -12,6 +12,13 @@
 Template Route at `\App\Config\Route.php`
 Template Controller at `\app\Controller\Home.php`
 
+### Views
+- `landing_page.php` : view for Landing Page
+- `web\` : view for WebGIS
+- `web\layouts` : template layouts for WebGIS
+- `profile` : view for Profile Page
+- `auth` : view for authentication (login and register)
+
 ### Files
 - `public/assets` : Template for Frontend file assets (CSS, JS, etc). Check template [here](https://zuramai.github.io/mazer/demo/index.html) (based on Bootstrap 5).
 - `public/css` : CSS for Landing Page (`landing-page/`) and WebGIS (`web.css`).
